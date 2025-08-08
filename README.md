@@ -25,11 +25,8 @@ cd path/to/backend_task
 npm install
 # Start server
 node index.js
-# or (recommended for dev)
-npx nodemon index.js
 
-
-#### Sample Responses
+#### Sample Responses (Postman web app)
 
 GET http://localhost:3000/report/overview
 
